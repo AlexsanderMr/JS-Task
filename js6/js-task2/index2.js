@@ -1,0 +1,1 @@
+const hello2 = (PersoName) => console.log(`Привeт, ${PersonName}`);
